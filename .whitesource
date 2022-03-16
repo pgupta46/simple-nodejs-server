@@ -1,0 +1,6 @@
+{
+  "remediateSettings": {
+    "enableRenovate": true,
+    "extends": ["group:recommended"]
+  }
+}
